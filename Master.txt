@@ -13,3 +13,7 @@
 <Version: 1.05>
 /data/tes55555t.zip https://raw.githubusercontent.com/Sher852/ConEduka/master/Map010.json
 <End of Version>
+
+<Version: 1.06>
+/data/CHOCAPI.zip https://es.wordpress.org/wordpress-4.8.2-es_ES.zip
+<End of Version>
