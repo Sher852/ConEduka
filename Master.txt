@@ -5,3 +5,7 @@
 <Version: 1.03>
 /data/test.zip https://raw.githubusercontent.com/Sher852/ConEduka/master/Map010.json
 <End of Version>
+
+<Version: 1.04>
+/data/tes4t.zip https://raw.githubusercontent.com/Sher852/ConEduka/master/Map010.json
+<End of Version>
