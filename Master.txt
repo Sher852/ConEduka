@@ -1,3 +1,7 @@
 <Version: 1.01>
 /data/test.zip https://es.wordpress.org/wordpress-4.8.2-es_ES.zip
+/data/test2.zip https://es.wordpress.org/wordpress-4.8.2-es_ES.zip
+/data/test3.zip https://es.wordpress.org/wordpress-4.8.2-es_ES.zip
+/data/test4.zip https://es.wordpress.org/wordpress-4.8.2-es_ES.zip
+/data/tes5.zip https://es.wordpress.org/wordpress-4.8.2-es_ES.zip
 <End of Version>
