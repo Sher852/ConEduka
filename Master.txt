@@ -1,3 +1,4 @@
 <Version: 1.01>
 /img/test.png https://host182.hostmonster.com:2083/cpsess8152674456/download?skipencode=1&file=%2fhome1%2fmercagal%2fpublic_html%2fconeduka%2f101%2fActor1.png
+/img/test.js https://raw.githubusercontent.com/Sher852/ConEduka/master/main.js
 <End of Version>
